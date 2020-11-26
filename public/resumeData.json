@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Sangam Poudel",
+    "occupation": "Web Developer",
+    "description": "Full Stack WEB Developer",
+    "image": "IG_Sangam.jpg",
+    "bio": "My name is Sangam, I'm a Full Stack ReactJS Developer. ",
+    "contactmessage": "Get in touch with me to receive further details, build responsive website or anything else.",
+    "email": "sangam.poudel1997@gmail.com",
+    "phone": "+977 9811574042",
+    "address": {
+      "country": "Nepal",
+      "city": "Butwal",
+      "state": "Lumbini"
+      
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/songum.gum/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sangam-poudel-677547191//",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sangam79/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Maharshi Dayanand University",
+        "degree": "B.Tech in Computer Science & Engineering",
+        "graduated": "July 2020",
+        "description": ""
+      },
+      {
+        "school": "Everest English Higher Secondary Boarding School",
+        "degree": "Computer Science(+2)",
+        "graduated": "2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "Web Developer Internship",
+        "years": "",
+        "description": ""
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "PYTHON / DJANGO",
+        "level": "70%"
+      },
+      {
+        "name": "HTML CSS Bootstrap Material-UI",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      
+      {
+        "name": "Database(PostgreSQL && MongoDB)",
+        "level": "60%"
+      },
+     
+      {
+        "name": "Node.js",
+        "level": "65%"
+      },
+      {
+        "name": "Heroku",
+        "level": "55%"
+      },
+      {
+        "name": "Firebase && Firestore",
+        "level": "65%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AMAZON Clone",
+        "category": "AMAZON Clone built with FIREBASE, ReactJS, NodeJS",
+        "image": "amazon-clone.png",
+        "url": "https://amaazon-nepal.web.app/"
+        
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-clone.png",
+        "url": "https://tiktok-clone-nepal.web.app/"
+      },
+      {
+        "title": "BLOG WEBSITE",
+        "category": " fullstack webapp built with  DJANGO & ReactJS",
+        "image": "blog-website.png",
+        "url": "https://blogbudz.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      
+      {
+        "text": "Hey it's me Sangam Poudel  one of the most brilliant developers out there! I may be fresh out of University and have zero on the job experience but I am confident that i will be one of your best developers in no time!"
+
+      }
+    ]
+  }
+}
