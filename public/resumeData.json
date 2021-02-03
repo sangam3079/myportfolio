@@ -15,7 +15,7 @@
       
     },
     "website": "",
-    "resumedownload": "",
+    "resumedownload": "resume.png",
     "social": [
       {
         "name": "facebook",
@@ -113,10 +113,10 @@
         "url": "https://tiktok-clone-nepal.web.app/"
       },
       {
-        "title": "BLOG WEBSITE",
-        "category": " fullstack webapp built with  DJANGO & ReactJS",
-        "image": "blog-website.png",
-        "url": "https://blogbudz.herokuapp.com/"
+        "title": "Frontend Mentor Challenge",
+        "category": " website design using HTML, CSS(BEM convention) & ReactJS",
+        "image": "frontendmentor.png",
+        "url": "https://sangam3079.github.io/Frontend-Mentor-Challenge/social-proof-section-master/index.html"
       }
     ]
   },
