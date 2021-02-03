@@ -15,7 +15,7 @@
       
     },
     "website": "",
-    "resumedownload": "resume.png",
+    "resumedownload": "images/resume.png",
     "social": [
       {
         "name": "facebook",
@@ -61,7 +61,11 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React ",
+        "level": "80%"
+      },
+      {
+        "name": " ReactHooks Redux Context API ",
         "level": "80%"
       },
       {
@@ -69,7 +73,7 @@
         "level": "70%"
       },
       {
-        "name": "HTML CSS Bootstrap Material-UI",
+        "name": "HTML CSS Bootstrap Material-UI Flexbox ",
         "level": "70%"
       },
       {
@@ -81,15 +85,7 @@
         "name": "Database(PostgreSQL && MongoDB)",
         "level": "60%"
       },
-     
-      {
-        "name": "Node.js",
-        "level": "65%"
-      },
-      {
-        "name": "Heroku",
-        "level": "55%"
-      },
+    
       {
         "name": "Firebase && Firestore",
         "level": "65%"
