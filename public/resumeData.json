@@ -52,8 +52,14 @@
     ],
     "work": [
       {
-        "company": "",
+        "company": "Influence pvt ltd",
         "title": "Web Developer Internship",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "Click and Press",
+        "title": "React.js Developer",
         "years": "",
         "description": ""
       }
