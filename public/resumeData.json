@@ -103,10 +103,10 @@
         
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-clone.png",
-        "url": "https://tiktok-clone-nepal.web.app/"
+        "title": "Admin Panel",
+        "category":"Admin webapp for good vibes official mobile application ",
+        "image": "goodvibes.png",
+        "url": "https://60703539cbb38e12d901c5bd--gv-admin.netlify.app/"
       },
       {
         "title": "Frontend Mentor Challenge",
@@ -120,8 +120,8 @@
     "testimonials": [
       
       {
-        "text": "Hey it's me Sangam Poudel  one of the most brilliant developers out there! I may be fresh out of University and have zero on the job experience but I am confident that i will be one of your best developers in no time!"
-
+        "text": "Without doubt one of the most talented programmers out there.  I always go back to Sangam when I'm out of my depth and he's never failed to deliver what I ask for.   Smart, trustworthy and professional.   You won't be disappointed ",
+        "user":"Sushil Subedi"
       }
     ]
   }
