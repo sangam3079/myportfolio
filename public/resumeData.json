@@ -75,11 +75,11 @@
         "level": "80%"
       },
       {
-        "name": "PYTHON / DJANGO",
+        "name": "Javascript Nextjs",
         "level": "70%"
       },
       {
-        "name": "HTML CSS Bootstrap Material-UI Flexbox ",
+        "name": "HTML CSS SASS Bootstrap Flexbox ",
         "level": "70%"
       },
       {
@@ -109,10 +109,10 @@
         
       },
       {
-        "title": "Admin Panel",
-        "category":"Admin webapp for good vibes official mobile application ",
-        "image": "goodvibes.png",
-        "url": "https://60703539cbb38e12d901c5bd--gv-admin.netlify.app/"
+        "title": "Admin Dashboard",
+        "category":"Admin webapp for metro coffee mobile application ",
+        "image": "metrocoffee.png",
+        "url": "https://60afc306cd9172008e371797--metro-coffee.netlify.app"
       },
       {
         "title": "Frontend Mentor Challenge",
