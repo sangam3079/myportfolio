@@ -102,6 +102,11 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Songs Nepal Web for Artist",
+        "category": " Frontend is done by ReactJS",
+        "image": "songsnepal.png"
+      },
+      {
         "title": "AMAZON Clone",
         "category": "AMAZON Clone built with FIREBASE, ReactJS, NodeJS",
         "image": "amazon-clone.png",
@@ -113,12 +118,6 @@
         "category":"Admin webapp for metro coffee mobile application ",
         "image": "metrocoffee.png",
         "url": "https://60afc306cd9172008e371797--metro-coffee.netlify.app"
-      },
-      {
-        "title": "Frontend Mentor Challenge",
-        "category": " website design using HTML, CSS(BEM convention) & ReactJS",
-        "image": "frontendmentor.png",
-        "url": "https://sangam3079.github.io/Frontend-Mentor-Challenge/social-proof-section-master/index.html"
       }
     ]
   },
