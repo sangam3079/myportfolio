@@ -104,7 +104,8 @@
       {
         "title": "Songs Nepal Web for Artist",
         "category": " Frontend is done by ReactJS",
-        "image": "songsnepal.png"
+        "image": "songsnepal.png",
+        "url": "https://artist-stage.songsnepal.com"
       },
       {
         "title": "AMAZON Clone",
